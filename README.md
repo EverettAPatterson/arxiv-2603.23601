@@ -7,7 +7,7 @@ Title: Entanglement transference and non-inertial quantum reference frames
 
 Last edited on: August 7, 2026
 
-[![DOI](https://zenodo.org/badge/1324640144.svg)](https://doi.org/10.5281/zenodo.21843626)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/21843626-blue:)](https://doi.org/10.5281/zenodo.21843626)
 
 ## What is included
 
