@@ -8,7 +8,7 @@ Title: Entanglement transference and non-inertial quantum reference frames
 Last edited on: August 7, 2026
 
 There are two files in this repository:
-(1) arxiv-2603.23601-Mathematica-Code
+(1) arxiv-2603.23601-Mathematica-Code,
 (2) EntanglementTransference_Example.m
 
 These files are briefly described below:
