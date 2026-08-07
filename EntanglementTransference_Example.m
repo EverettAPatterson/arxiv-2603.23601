@@ -35,7 +35,7 @@ addpath(genpath('/Applications/QETLAB-1.0'))
 %       (iii) 2C, 
 %       (iv) E+C
 
-% Note: Only run/uncomment one of (1), (2), and (3)!
+% Note: Only run/uncomment one of (1.i), (1.ii), and (1.iii)!
 
 
 
