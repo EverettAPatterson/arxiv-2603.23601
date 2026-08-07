@@ -8,12 +8,12 @@ Title: Entanglement transference and non-inertial quantum reference frames
 Last edited on: August 7, 2026
 
 There are two files in this repository:
-(1) arxiv-2603.23601-Mathematica-Code,
+(1) arxiv-2603.23601-Mathematica-Code.nb,
 (2) EntanglementTransference_Example.m
 
 These files are briefly described below:
 
-(1) arxiv-2603.23601-Mathematica-Code
+(1) arxiv-2603.23601-Mathematica-Code.nb
 - This .nb Mathematica Notebook was primarily used to generate the plots found in Figures 4 and 5 of arXiv:2603.23601.
 - Figure 4 depicts the Entanglement Entropy and the Relative Entropy of Coherence for our system, across multiple quantum reference frames.
 - Figure 5 is similar, but depicts the Linear Entropy of Entanglement (equivalent to the Tangle in our case) and the L2-Norm of Coherence.
