@@ -5,7 +5,7 @@ Authors: Everett A. Patterson, Sijia Wang, and Robert B. Mann
 
 Title: Entanglement transference and non-inertial quantum reference frames
 
-Last edited on: August 5, 2026
+Last edited on: August 7, 2026
 
 There are two files in this repository:
 (1) arxiv-2603.23601-Mathematica-Code
